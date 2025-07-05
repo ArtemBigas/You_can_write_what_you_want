@@ -2,6 +2,7 @@
 Instructions and script to create texture-text
 
 This instruction will allow you to create a text texture on a white background. Created to work with 3D models, in particular https://skfb.ly/pyOJC
+
 Windows
 1) download the script gen_text_texture(jpeg).py
 2) Install Python from https://www.python.org/downloads/windows/
