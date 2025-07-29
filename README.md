@@ -10,6 +10,7 @@ Windows
 4) Enter the following commands: "path/python.exe" -m pip install --upgrade pip
 
 "path/python.exe" -m pip install Pillow
+
 6) Create a label.txt file in the folder with the script and write the text for the texture. It can be in several lines.
 7) Open the command line in the same folder and enter:
 "path/python.exe" gen_text_texture(jpeg).py
