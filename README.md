@@ -5,7 +5,7 @@ This instruction will allow you to create a text texture on a white background. 
 
 Windows
 1) download the script gen_text_texture(jpeg).py
-2) Install Python from https://www.python.org/downloads/windows/
+2) Install Python from https://www.python.org/downloads/windows/. Do not install in the AppData folder.
 3) in the command line (Win+R, cmd - you may have to open it with administrator rights) with the command "where python" find out the path to the installed version. The path should contain the Python folder
 4) Enter the following commands: "path/python.exe" -m pip install --upgrade pip
 
